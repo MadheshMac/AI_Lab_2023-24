@@ -1,6 +1,6 @@
 # Ex.No: 13 Mini Project
-### DATE: 4.11.2024                                                                 
-### REGISTER NUMBER : 212222040017
+### DATE:                                                                 
+### REGISTER NUMBER : 212222040090
 
 ### AIM:
 To write a program to train a classifier for peck hour Scheduling
